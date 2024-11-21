@@ -30,3 +30,6 @@ A **Typing Test Website** designed to improve your typing speed and accuracy. Th
 4. **Finish the Test**: The timer will stop after 60 seconds, and you can review your results.
 5. **Reset the Test**: Click the "Try Again" button to restart with a new paragraph.
 
+## Image
+![image](https://github.com/user-attachments/assets/32f7518e-b813-4009-b7f4-cc505a6d798b)
+
